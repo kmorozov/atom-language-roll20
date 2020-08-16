@@ -1,16 +1,13 @@
 {
   "name": "language-roll20",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Syntax highlighter for roll-20 templates",
   "keywords": [
     "syntax",
     "highlighting",
     "grammar"
   ],
-  "activationCommands": {
-    "atom-workspace": "language-roll20:toggle"
-  },
-  "repository": "",
+  "repository": "https://github.com/kmorozov/atom-language-roll20",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
