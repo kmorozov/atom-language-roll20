@@ -1,6 +1,6 @@
 {
   "name": "language-roll20",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Syntax highlighter for roll-20 templates",
   "keywords": [
     "syntax",
